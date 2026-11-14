@@ -67,7 +67,7 @@ def _check_assets() -> None:
 
 
 def main() -> None:
-   print(f"⚙  YASH'S JARVIS — detected OS: {OS or 'unknown'}, "
+    print(f"⚙  YASH'S JARVIS — detected OS: {OS or 'unknown'}, "
           f"Python {sys.version_info[0]}.{sys.version_info[1]}")
     _check_python()
 
