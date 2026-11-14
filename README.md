@@ -177,7 +177,7 @@ Issues and pull requests are welcome. Please don't include API keys, tokens or p
 
 Released under **[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)**. You may share and adapt it with credit, **for non-commercial use only**. See [`LICENSE`](LICENSE).
 
-- **Developer:** Yash
+- **Developer:** Yaswanth 
 - **Original work:** FatihMakes. This project builds on and modifies their original work. Changes were made, and the original creator does not endorse this project.
 
 Provided as-is, without warranty. You are responsible for how you use an assistant that can control your computer.
